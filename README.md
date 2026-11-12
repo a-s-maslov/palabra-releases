@@ -8,7 +8,7 @@ A desktop vocabulary companion for Windows. Illustrated word cards appear during
 2. On first launch, choose the vocabularies you want and click Install selected.
 3. Click Start learning. You can adjust translations and scheduling afterwards.
 
-Later, use Vocabularies → Add vocabulary: the same catalogue and installer are used. Existing vocabularies and progress are reused after reinstallation. Installed vocabularies show their saved progress; detailed progress opens separately. Settings and advanced options are grouped on a separate screen.
+Later, use Vocabularies → Add vocabulary: the same catalogue and installer are used. Existing vocabularies and progress are reused after reinstallation. Installed vocabularies show their saved progress; detailed progress opens separately. Configure translations and scheduling directly from each vocabulary card. App-wide settings are separate. Show cards enables or disables study independently of editing settings. Each installation or reinstallation opens the library, including your existing vocabularies and saved progress.
 
 No source checkout or developer tools are required. The installer checks for Microsoft WebView2 and installs it if necessary. The installer is currently unsigned.
 
