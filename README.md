@@ -6,9 +6,9 @@ A desktop vocabulary companion for Windows. Illustrated word cards appear during
 
 1. Download **[Palabra-Setup.exe](https://github.com/a-s-maslov/palabra-releases/releases/latest/download/Palabra-Setup.exe)** from the latest application release.
 2. On first launch, choose the vocabularies you want and click Install selected.
-3. Click Start learning. You can adjust translations and scheduling afterwards.
+3. Click Start learning. You can adjust translations and review intervals afterwards.
 
-Later, use Vocabularies → Add vocabulary: the same catalogue and installer are used. Existing vocabularies and progress are reused after reinstallation. Installed vocabularies show their saved progress; detailed progress opens separately. Configure translations and scheduling directly from each vocabulary card. App-wide settings are separate. Show cards enables or disables study independently of editing settings. Each installation or reinstallation opens the library, including your existing vocabularies and saved progress.
+The catalogue is always available in Vocabularies. Each vocabulary has adjacent Learning and Progress tabs in the same screen. Configure translations and review intervals there; display interval, working hours, auto-hide and pause are app-wide Settings. There are no daily card limits. Show cards enables or disables a vocabulary independently of its settings. Each installation or reinstallation opens the library with existing vocabularies and saved progress; downloading them again is not required.
 
 No source checkout or developer tools are required. The installer checks for Microsoft WebView2 and installs it if necessary. The installer is currently unsigned.
 
@@ -19,7 +19,7 @@ No source checkout or developer tools are required. The installer checks for Mic
 - German: 100 words / 100 cards, Russian and English translations, approximately 15 MB.
 - Spanish: 1050 words / 1291 cards, Russian and English translations, approximately 226 MB.
 
-All packages use the same `.palabra-pack` format. For offline import, choose Install from file in Settings. Once installed, learning works offline. Fully offline application setup requires WebView2 to be available beforehand.
+All packages use the same `.palabra-pack` format. For offline import, choose Install from file in Vocabularies. Once installed, learning works offline. Fully offline application setup requires WebView2 to be available beforehand.
 
 The interface supports English, Russian, Spanish and German. Any number of installed packages can be enabled; settings and learning progress are independent. Removing a package keeps its progress for reinstallation. Updating the application keeps your packages and progress.
 
