@@ -5,8 +5,10 @@ A desktop vocabulary companion for Windows. Illustrated word cards appear during
 ## Install
 
 1. Download **[Palabra-Setup.exe](https://github.com/a-s-maslov/palabra-releases/releases/latest/download/Palabra-Setup.exe)** from the latest application release.
-2. Install and open Settings → Available packages.
-3. Download only the languages you need, then enable their study checkboxes.
+2. On first launch, choose the vocabularies you want and click Install selected.
+3. Click Start learning. You can adjust translations and scheduling afterwards.
+
+Later, use Vocabularies → Add vocabulary: the same catalogue and installer are used. Existing vocabularies and progress are reused after reinstallation. Installed vocabularies show their saved progress; detailed progress opens separately. Settings and advanced options are grouped on a separate screen.
 
 No source checkout or developer tools are required. The installer checks for Microsoft WebView2 and installs it if necessary. The installer is currently unsigned.
 
